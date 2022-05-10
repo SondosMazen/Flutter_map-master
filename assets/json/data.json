@@ -1,0 +1,22 @@
+{
+  "lang": "ar",
+  "sallary_date": "2020-11-29",
+  "sallary_amount":  0.0,
+  "totalCash": 0.0,
+  "cashAmount": 0.0,
+  "sumExpences": 0.0,
+  "sumTotalExpences": 0.0,
+  "totalMonthly": 0.0,
+  "mounthlyAmount": 0.0,
+  "totalSave": 0.0,
+  "saveAmount": 0.0,
+  "expences": [
+    {
+      "id": 0,
+      "type": "أدخل اسم المصروف",
+      "amount": 0.0,
+      "total": 0.0,
+      "isSelect": false
+    }
+  ]
+}
